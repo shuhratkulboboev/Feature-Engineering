@@ -1,5 +1,4 @@
 # Heart Disease Feature Selection and Classification
-
 This project aims to analyze heart disease datasets using feature selection methods—**Lasso** and **Wrapper Methods**—to identify the most significant features and classify the presence of heart disease.
 
 ---
