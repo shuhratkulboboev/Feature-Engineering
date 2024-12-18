@@ -50,24 +50,12 @@ The primary focus is on the Cleveland database, which is widely used in machine 
 
 ---
 
-## Visualizations
+## Results
 
-### 1. Lasso Regression Feature Importance
-![Lasso Feature Importance](images/lasso_feature_importance.png)
+As you can see in the result , when I used feature selection , the model accuracy is higher than compared to model that feature selection is not used
 
-### 2. Wrapper Methods Feature Selection
-![Wrapper Feature Selection](images/wrapper_feature_selection.png)
+
 
 ---
 
-## How to Run
 
-### **1. Prerequisites**
-- Python 3.7 or higher
-- Jupyter Notebook
-- Dependencies listed in `requirements.txt`
-
-### **2. Steps**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Heart-Disease-Feature-Selection-and-Classification.git
